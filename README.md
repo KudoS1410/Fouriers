@@ -5,7 +5,7 @@ And drawing with epicycles
 ## Tasks
 
 * [x] To make a epicycle drawing machine
-* [x] To crete basic discrete fourier transform progra
+* [x] To crete basic discrete fourier transform program
 
 ## [draw_sin](p1.py): 
 simple sin wave as in [wiki-animation](https://upload.wikimedia.org/wikipedia/commons/1/1a/Fourier_series_square_wave_circles_animation.gif) - only the first file
